@@ -6,7 +6,7 @@
 To use Tableau to create a story about NYC electronic bike usage, in order to demonstrate the possibilities of recreating the business in a smaller city.
 
 ## Results
-Complete story is located at [link to dashboard](https://public.tableau.com/profile/shayna6888#!/vizhome/NYCitibikeChallenge/CheckoutTimes-UsersViz?publish=yes)
+Complete story is located at [link to dashboard](https://public.tableau.com/profile/shayna6888#!/vizhome/NYCitibikeChallenge/CitibikeStory?publish=yes)
  
 ![Checkout Times by Users](./Resources/Slide1.png)
 
